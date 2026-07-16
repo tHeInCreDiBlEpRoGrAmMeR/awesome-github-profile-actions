@@ -22,7 +22,7 @@ A curated list of Awesome github profile actions that can be used on your github
 
 ## Thanks to ...
 
-- [Sarah Drasner](https://github.com/sdras) and her [Github Actions](https://github.com/sdras/awesome-actions) repository
+- [Sarah Drasner](https://github.com/sdras) and her [Awesome Actions](https://github.com/sdras/awesome-actions) repository
 
 ## Contribute
 
