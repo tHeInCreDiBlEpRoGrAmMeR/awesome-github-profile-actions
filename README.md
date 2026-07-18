@@ -3,6 +3,7 @@
 A curated list of Awesome github profile actions that can be used on your github Profile README.
 
 ## Categories
+
 #### 📊 Stats
 - [WakaTime Stats](https://github.com/anmol098/waka-readme-stats)
 
@@ -10,13 +11,13 @@ A curated list of Awesome github profile actions that can be used on your github
 - [Github Profile 3D Contributions](https://github.com/yoshi389111/github-profile-3d-contrib)
 - [Snake](https://github.com/Platane/snk)
 
-#### Dynamic 
+#### 💫  Dynamic 
 - [Dynamic Github Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page)
 
-#### Cards
+#### 🏙️ Cards
 - [Youtube Cards](https://github.com/denvercoder1/github-readme-youtube-cards)
 
-#### Activity
+#### 🎯 Activity
 
 - [Recent Activity](https://github.com/jamesgeorge007/github-activity-readme)
 - [Activity Log](https://github.com/TheDanniCraft/activity-log)
