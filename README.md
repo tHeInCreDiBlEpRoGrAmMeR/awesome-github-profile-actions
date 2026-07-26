@@ -6,6 +6,7 @@ A curated list of Awesome github profile actions that can be used on your github
 
 #### 📊 Stats
 - [WakaTime Stats](https://github.com/anmol098/waka-readme-stats)
+- [Github README Stats](https://github.com/soulteary/github-readme-stats-action)
 
 #### 📈 Graphs
 - [Github Profile 3D Contributions](https://github.com/yoshi389111/github-profile-3d-contrib)
