@@ -14,6 +14,7 @@ A curated list of Awesome github profile actions that can be used on your github
 
 #### 💫  Dynamic 
 - [Dynamic Github Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page)
+- [Github Update README](https://github.com/theboi/github-update-readme)
 
 #### 🏙️ Cards
 - [Youtube Cards](https://github.com/denvercoder1/github-readme-youtube-cards)
